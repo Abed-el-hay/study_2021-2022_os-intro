@@ -123,7 +123,7 @@ Oracle VM VirtualBox позволяет запускать более одной
 
 ​																			**рис 1.1 создание /var/tmo/maabedelhay**
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/showvar.png )
+![gg](image/showvar.png )
 
 ​																							**рис 1.1.2**
 
@@ -151,55 +151,55 @@ ls
 
 
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/alocatingMemmory-1.3.png)
+![gg](image/alocatingMemmory-1.3.png)
 
 ​											   							**рис 1.3 Окно «Размер основной памяти**
 
 ​		
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/choosingHardDisk-1.4.png)
+![gg](image/choosingHardDisk-1.4.png)
 
 ​								   	**рис 1.4  Окно подключения или создания жёсткого диска на виртуальной машине **
 
 
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/HardDiskFiletype-1.5.png)
+![gg](image/HardDiskFiletype-1.5.png)
 
 ​										**рис 1.5 Окно определения типа подключения виртуального жёсткого диска  **
 
 
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/dynamicAlocation-1.6.png)
+![gg](image/dynamicAlocation-1.6.png)
 
 ​												**рис 1.6 Окно определения формата виртуального жёсткого диска **
 
 
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/diskSize-1.7.png)
+![gg](image/diskSize-1.7.png)
 
 ​		**рис 1.7 Окно определения размера виртуального динамического жёсткого диска и его расположения**
 
 
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/choosingFedoraimage-1.8.png)
+![gg](image/choosingFedoraimage-1.8.png)
 
 ​																							**рис 1.8 селектор диска окна**
 
 
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/setupFedoraLang.png)
+![gg](image/setupFedoraLang.png)
 
 ​																							**рис 1.9 выбор языка окна**
 
 
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/installationDestenation.png)
+![gg](image/installationDestenation.png)
 
 ​																		 	**рис 1.10  установить пункт назначения окна**
 
 
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/welcome fedora.png)
+![gg](image/welcome fedora.png)
 
 ​																		**рис 1.11  Окно приветствия Fedora окна**
 
@@ -207,13 +207,13 @@ ls
 
 
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/namefedora.png)
+![gg](image/namefedora.png)
 
 ​																	  			**рис 1.12 Имя и имя пользователя окна**
 
 
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/fedoraTerminalId2.png)
+![gg](image/fedoraTerminalId2.png)
 
 ​																				**рис 1.13 следуя закону об именах**
 
@@ -221,7 +221,7 @@ ls
 
 
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/oneForAll.png)
+![gg](image/oneForAll.png)
 
 ​								       					**рис 2 вся необходимая информация на одной картинке**
 
@@ -231,7 +231,7 @@ ls
 
 - **Версия ядра Linux:**
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/kernelVersion222.png)
+![gg](image/kernelVersion222.png)
 
 ​																		**рис 2.1 отображение версии ядра **
 
@@ -247,7 +247,7 @@ dmesg | grep 'kernel' | grep 'version'
 
 - **Частота процессора :**
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/detectMHZproccesor.png)
+![gg](image/detectMHZproccesor.png)
 
 ​																	   			**рис 2.2 процессор обнаружения  **
 
@@ -263,7 +263,7 @@ dmesg | grep 'processor'
 
 - **Модель процессора:**
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/modelProcessor.png)
+![gg](image/modelProcessor.png)
 
 ​																				**рис 2.3 поиск модели процессора  **
 
@@ -279,7 +279,7 @@ dmesg | grep 'CPU0'
 
 - **Объем доступной оперативной памяти:**
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/availableMemory.png)
+![gg](image/availableMemory.png)
 
 
 
@@ -297,7 +297,7 @@ dmesg |  grep 'available' | grep 'Memory'
 
 - **Тип обнаруженного гипервизора :**
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/hypervisorDetected.png)
+![gg](image/hypervisorDetected.png)
 
 ​																				**рис 2.5 обнаружение гипервизора   **
 
@@ -315,7 +315,7 @@ KVM = Kernel-based Virtual Machine
 
 - **Тип файловой системы корневого раздела:**
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/filesystemType.png)
+![gg](image/filesystemType.png)
 
 ​																			**рис 2.6   поиск типа файловой системы **
 
@@ -333,7 +333,7 @@ Ext4 является предпочтительной и наиболее ши�
 
 - **Последовательность монтирования файловых систем : **
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/mountSequence.png)
+![gg](image/mountSequence.png)
 
 ​													**рис 2.7  последовательность монтирования файловой системы **
 
@@ -351,7 +351,7 @@ dmesg | grep 'Mount'
 
 2.1 для получения справки по команде: **man chmod**
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/manChmod.png)
+![gg](image/manChmod.png)
 
 ​																	            **рис 3.1 команда man **
 
@@ -361,7 +361,7 @@ dmesg | grep 'Mount'
 
 2.2 для перемещения по файловой системе: cd
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/cd.png)
+![gg](image/cd.png)
 
 ​																							**рис 3.2 команда сd **  
 
@@ -373,25 +373,25 @@ dmesg | grep 'Mount'
 
 2.4 для определения объёма каталога:  du -sh
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/du-sh.png)
+![gg](image/du-sh.png)
 
 ​																						**рис 3.5 команда du**
 
 2.5 для создания / удаления каталогов / файлов : mkdir-rmdir touch-rm
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/mkdir.png)
+![gg](image/mkdir.png)
 
 ​																												**рис 3.6**
 
 2.6 для задания определённых прав на файл / каталог:  chmod
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/chmod.png)
+![gg](image/chmod.png)
 
 ​																									**рис 3.7 команда chmod**
 
 2.7для просмотра истории команд: history
 
-![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/history.png)
+![gg](image/history.png)
 
 ​																						    	**рис 3.8 команда history**
 
@@ -401,7 +401,7 @@ dmesg | grep 'Mount'
 
    4. используя **df -Т**
 
-      ![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/df-T.png)											**рис 3.9 какие файловые системы подмонтированы в ОС**
+      ![gg](image/df-T.png)											**рис 3.9 какие файловые системы подмонтированы в ОС**
 
       5. удалить зависший процесс
 
@@ -412,13 +412,13 @@ dmesg | grep 'Mount'
       kill -9  pid
       ```
 
-      ![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/killfirefox1.png)
+      ![gg](image/killfirefox1.png)
 
       ​																				**рис 3.10 запускаем firefox **
 
       
 
-      ![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/killfirefox2.png)
+      ![gg](image/killfirefox2.png)
 
       ​																					**рис 3.11 firefox**
 
@@ -426,7 +426,7 @@ dmesg | grep 'Mount'
 
       
 
-      ![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/killfirefox3.png)
+      ![gg](image/killfirefox3.png)
 
       ​																			**рис 3.12 идентифицировать pid**
 
@@ -436,7 +436,7 @@ dmesg | grep 'Mount'
 
       
 
-      ![gg](/home/abedhay/work/study/2021-2022/Операционные системы/os-intro/labs/lab01/report/image/killfirefox4.png)
+      ![gg](image/killfirefox4.png)
 
       ​																				**рис 3.13  убить программу**
 
