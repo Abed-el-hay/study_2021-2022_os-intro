@@ -1,6 +1,6 @@
-# Шаблон каталога курса для студентов
+# Репозиторий курса "Операционная система"
 
 ## Скачать репозиторий
 
-git clone --recursive https://github.com/yamadharma/course-directory-student-template.git
+git clone --recursive https://github.com/maabedelhay/study_2021-2022_os-intro
 
