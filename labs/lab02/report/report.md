@@ -112,29 +112,29 @@ header-includes:
 
 ![downloadgitflow](image/downloadgitflow.png)
 
-​																					  					**Рис 1**
+​																				  					**Рис 1**
 
 
 
 ![instyallGH](image/instyallGH.png)
 
-​																										**Рис 2**
+​																									**Рис 2**
 
 
 
 ![config_username_mail](image/config_username_mail.png)
 
-​																			  							**Рис 3**
+​																			  						**Рис 3**
 
 ![basic_gitInstalation](image/basic_gitInstalation.png)
 
-​																								  		**Рис 4**
+​																							 		**Рис 4**
 
 #### 2. Создать ключ SSH:
 
 ![creatSSH-key](image/creatSSH-key.png)
 
-​																									     	**Рис 5**
+​																								   	**Рис 5**
 
 #### 3. Создать ключ PGP:
 
@@ -146,13 +146,13 @@ header-includes:
 
 ![befor_addinggpg](image/befor_addinggpg.png)
 
-​																												**Рис 7**
+​																									 **Рис 7**
 
 #### 4. Настроить подписи git:
 
-![added gpgkey](image/added gpgkey.png)
+![added gpgkey](image/added_gpgkey.png)
 
-​																										**Рис 8**
+​																								     **Рис 8**
 
 
 
@@ -160,7 +160,7 @@ header-includes:
 
 
 
-​																										**Рис 9**
+​																								     **Рис 9**
 
 #### 6. Создать локальный каталог для выполнения заданий по предмету:
 
