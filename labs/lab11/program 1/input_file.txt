@@ -1,0 +1,6 @@
+Stream
+system
+#include <iostream>
+I WANT TO
+MAN
+memmory
